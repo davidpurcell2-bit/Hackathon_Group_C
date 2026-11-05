@@ -4,6 +4,8 @@
 An interactive data visualisation of ~48,000 retracted academic papers, built by a
 team of three in the PHY1040 data hackathon at Dublin City University.
 
+**[View the website →](https://davidpurcell2-bit.github.io/Hackathon_Group_C/)**
+
 ![World map of retractions per country](docs/images/choropleth-map.png)
 
 ## Key findings
@@ -23,9 +25,9 @@ team of three in the PHY1040 data hackathon at Dublin City University.
 | Visualisation | What it shows |
 | --- | --- |
 | **Interactive choropleth map** (Plotly) | Retractions per country on a log scale. Hover or click a country for its data. |
-| **[Sankey diagram](docs/sankey.html)** | How retractions flow from subject area → continent → country |
+| **[Sankey diagram](https://davidpurcell2-bit.github.io/Hackathon_Group_C/sankey.html)** | How retractions flow from subject area → continent → country |
 | **Pie charts** | The mix of subject areas for a selected country |
-| **[Website](docs/index.html)** | Everything in one place |
+| **[Website](https://davidpurcell2-bit.github.io/Hackathon_Group_C/)** | Everything in one place |
 
 ![Sankey diagram of retractions by subject, continent and country](docs/images/sankey.jpg)
 
